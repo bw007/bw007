@@ -4,7 +4,7 @@ Laziz Hasanov | Frontend Developer
 I am a frontend developer. I'm based in Karshi city.
 
 * ✉️  You can contact me at [mr.khasanov02@gmail.com](mailto:mr.khasanov02@gmail.com)
-* 🚀  I'm currently working on [Cargo](https://akex-cargo.netlify.app/)
+* 🚀  I'm currently working on [Cargo delivery](https://akex-cargo.netlify.app/)
 * 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on Projects
 
