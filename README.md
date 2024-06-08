@@ -5,7 +5,7 @@ I am a frontend developer. I'm based in Karshi city.
 
 * ✉️  You can contact me at [mr.khasanov02@gmail.com](mailto:mr.khasanov02@gmail.com)
 * 🚀  I'm currently working on [Cargo dashboard](https://cargo-dashboard.netlify.app/)
-* 🧠  I'm learning Vue.js
+* 🧠  I'm learning Typescript, Vue.js
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
