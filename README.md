@@ -1,4 +1,4 @@
-Laziz Hasanov | Frontend Developer
+Laziz Hasanov | Frontend Developer (#OpenToWork)
 ----------------------------------
 
 I am a frontend developer. I'm based in Karshi city.
