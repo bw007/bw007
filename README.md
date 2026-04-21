@@ -4,8 +4,8 @@ Laziz Hasanov | Frontend Developer (#OpenToWork)
 I am a frontend developer. I'm based in Tashkent.
 
 * ✉️  You can contact me at [mr.khasanov02@gmail.com](mailto:mr.khasanov02@gmail.com)
-* 🚀  I'm currently working on [Cargo dashboard](https://cargo-dashboard.netlify.app/)
-* 🧠  I'm learning Typescript, Angular
+* 🚀  I'm currently working on [Blog web app]((https://ngblog-demo.netlify.app/))
+* 🧠  I'm learning Typescript, Angular, Vuejs
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
