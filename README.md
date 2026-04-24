@@ -5,7 +5,7 @@ I am a frontend developer. I'm based in Tashkent.
 
 * ✉️  You can contact me at [mr.khasanov02@gmail.com](mailto:mr.khasanov02@gmail.com)
 * 🚀  I'm currently working on [Blog web app](https://ngblog-demo.netlify.app/)
-* 🧠  I'm learning Typescript, Angular, Vuejs, React, Nuxt, Frontend Architecture, Design System.
+* 🧠  I'm learning Typescript, Angular, Vuejs, Nuxt, Frontend Architecture, Design System.
 * 🤝  I'm open to collaborating on Projects.
 
 ### Skills
