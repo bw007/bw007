@@ -1,5 +1,5 @@
 Lazizbek Hasanov | Frontend Developer (#OpenToWork)
-----------------------------------
+--------------------------------------
 
 I am a frontend developer. I'm based in Tashkent.
 
